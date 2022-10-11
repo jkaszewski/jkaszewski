@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacek Kaszewski and use my name as @jkaszewski , guywithsoul or #MrNoBody.
-- 👀 I’m interested technology, art, photography, writing and video production. I'm also System Operator and Python programmer. Make RPG system in free time:)
-- 🌱 
+- 👀 I’m interested technology, art, photography, writing and video production. I'm also System Operator and Python programmer in a large corporation :). Make short, mini ezine RPG system in free time:)
+- 🌱 Spending time in the mountains and in the woods, sometimes sleeping in car.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Twitter: @jkaszewskipl or my Instagram: @guywithsoul . I have also web page but it is still under construction, but the contact form works:).
 
